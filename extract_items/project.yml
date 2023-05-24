@@ -1,0 +1,86 @@
+title: "NER for the main text"
+description: "retrieving 15 categories of tokens: CLAIMANT_EVENT, CLAIMANT_INFO, GPE, NORP, ORG, PROCEDURE, CREDIBILITY, DETERMINATION, DOC_EVIDENCE, EXPLANATION, DATE, PERSON, LAW, LAW_CASE, LAW_REPORT"
+
+# https://spacy.io/api/cli#project-document
+# go to the above link to generate a readme
+
+
+# These are the directories that the project needs:
+directories: ["./extract_items/data/main_text", "./extract_items/data/pretrained_tok2vec", "./extract_items/data/static_vectors", "./extract_items/configs", "./extract_items/preprocessing_scripts"]
+
+# raw data not published here (upon request)
+data:
+  - dest: "./extract_items/data/main_text/${vars.labeled_data}.jsonl"
+    description: "jsonl formatted file, labeled data exported from prodigy"
+
+workflows:
+  all:
+    - split_data
+    - preprocess
+    - pretrain etc...
+    - train
+    - evaluate
+
+commands:
+  - name: "split_data"
+    help: "splits the data in 3 according to the chosen percentage: train, dev, test sets, configure output paths in function"
+    script: "python ./extract_items/preprocessing_scripts/split_data.py"
+    deps:
+      - "./extract_items/data/main_text/${vars.labeled_data}.jsonl"
+      - "./extract_items/preprocessing_scripts/split_data.py"
+    outputs:
+      - "./extract_items/data/main_text/${vars.train}.jsonl"
+      - "./extract_items/data/main_text/${vars.dev}.jsonl"
+      - "./extract_items/data/main_text/${vars.test}.jsonl"
+
+  - name: "preprocess"
+    help: "converts the jsonl files in spacy's binary format"
+    script:
+    - "python ./extract_items/preprocessing_scripts/preprocess.py ./extract_items/data/main_text/${vars.train}.jsonl ./extract_items/data/main_text/${vars.train}.spacy"
+    - "python ./extract_items/preprocessing_scripts/preprocess.py ./extract_items/data/main_text/${vars.dev}.jsonl ./extract_items/data/main_text/${vars.dev}.spacy"
+    - "python ./extract_items/preprocessing_scripts/preprocess.py ./extract_items/data/main_text/${vars.test}.jsonl ./extract_items/data/main_text/${vars.test}.spacy"
+    deps:
+      - "./extract_items/data/main_text/${vars.train}.jsonl"
+      - "./extract_items/data/main_text/${vars.dev}.jsonl"
+      - "./extract_items/data/main_text/${vars.test}.jsonl"
+      - "./extract_items/preprocessing_scripts/preprocess.py"
+    outputs:
+      - "./extract_items/data/main_text/${vars.train}.spacy"
+      - "./extract_items/data/main_text/${vars.dev}.spacy"
+      - "./extract_items/data/main_text/${vars.test}.spacy"
+          
+  - name: "pretrain"
+    help: "pretraining step"
+    script: "spacy pretrain ./configs/pretrained/{config}.cfg ./PRETRAIN --gpu-id 0"
+    outputs:
+      - "./extract_items/data/pretrained_tok2vec/model17.bin"
+
+  - name: "static vectors"
+    help: "get the static vectors for training"
+    script: "./extract_items/preprocessing_scripts/create_static_embeddings.py"
+    outputs: "./extract_items/data/static_vectors"
+
+  - name: "train"
+    help: "train a NER model, we have 2 directories of config files, one for the labels we created (scratch) one for spacy traditional labels (pretrained)"
+    script: "spacy train ./extract_items/configs/main_text/${vars.config} --output ./extract_items/training/main_text/"
+    deps:
+      - "./extract_items/data/main_text/${vars.train}.spacy"
+      - "./extract_items/data/main_text/${vars.dev}.spacy"
+      - "./extract_items/data/static_vectors"
+      - "./extract_items/data/pretrained_tok2vec/model17.bin"
+    outputs:
+      - "./extract_items/training/main_text/model-last"
+
+  - name: "evaluate"
+    help: "Evaluate the model and export metrics"
+    script:
+      - "spacy evaluate ./extract_items/training/model-last corpus/${vars.dev}.spacy --output ./extract_items/training/case_cover/metrics-${vars.config}.json"
+    deps:
+      - "./extract_items/data/main_text/${vars.test}.spacy"
+      - "./extract_items/training/main_text/model-last"
+    outputs:
+      - "./extract_items/training/case_cover/metrics-${vars.config}.json"
+
+
+
+

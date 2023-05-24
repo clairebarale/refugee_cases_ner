@@ -1,0 +1,91 @@
+title: "NER for the case case_cover"
+description: "retrieving 4 categories of tokens: DATE, GPE, ORG, PERSON"
+
+# variables files used -- referenced across the .yml using ${vars.var_name}
+# gpu use for transformers configurations
+vars:
+  config: "baseline.cfg"
+  name: "ner_case_cover"
+  lang: "en"
+  labeled_data: "346_first_ner_annotations"
+  train: "train_set"
+  dev: "dev_set"
+  test: "test_set"
+  model_output: "baseline"
+  gpu: 1
+
+# These are the required directories
+directories: ["./extract_items/configs/", "./extract_items/data/", "./extract_items/preprocessing_scripts", "./extract_items/training", "./extract_items/results"]
+
+# raw data not published here (upon request)
+data:
+  - dest: "./extract_items/data/cover_page/${vars.labeled_data}.jsonl"
+    description: "jsonl formatted file, labeled data exported from prodigy"
+
+workflows:
+  all:
+    - split_data
+    - preprocess
+    - train
+    - evaluate
+
+commands:
+  - name: "split_data"
+    help: "splits the data in 3 according to the chosen percentage: train, dev, test sets, configure output paths in function"
+    script: "python ./extract_items/preprocessing_scripts/split_data.py"
+    deps:
+      - "./extract_items/data/cover_page/${vars.labeled_data}.jsonl"
+      - "./extract_items/preprocessing_scripts/split_data.py"
+    outputs:
+      - "./extract_items/data/cover_page/${vars.train}.jsonl"
+      - "./extract_items/data/cover_page/${vars.dev}.jsonl"
+      - "./extract_items/data/cover_page/${vars.test}.jsonl"
+
+  - name: "preprocess"
+    help: "converts the jsonl files in spacy's binary format"
+    script:
+    - "python ./extract_items/preprocessing_scripts/preprocess.py ./extract_items/data/cover_page/${vars.train}.jsonl ./extract_items/data/cover_page/${vars.train}.spacy"
+    - "python ./extract_items/preprocessing_scripts/preprocess.py ./extract_items/data/cover_page/${vars.dev}.jsonl ./extract_items/data/cover_page/${vars.dev}.spacy"
+    - "python ./extract_items/preprocessing_scripts/preprocess.py ./extract_items/data/cover_page/${vars.test}.jsonl ./extract_items/data/cover_page/${vars.test}.spacy"
+    deps:
+      - "./extract_items/data/cover_page/${vars.train}.jsonl"
+      - "./extract_items/data/cover_page/${vars.dev}.jsonl"
+      - "./extract_items/data/cover_page/${vars.test}.jsonl"
+      - "./extract_items/preprocessing_scripts/preprocess.py"
+    outputs:
+      - "./extract_items/data/cover_page/${vars.train}.spacy"
+      - "./extract_items/data/cover_page/${vars.dev}.spacy"
+      - "./extract_items/data/cover_page/${vars.test}.spacy"
+
+  - name: "train"
+    help: "train a NER model"
+    script: "spacy train ./extract_items/configs/case_cover/${vars.config} --output ./extract_items/training/case_cover/"
+    deps:
+      - "./extract_items/data/cover_page/${vars.train}.spacy"
+      - "./extract_items/data/cover_page/${vars.dev}.spacy"
+    outputs:
+      - "./extract_items/training/case_cover/model-last"
+
+  - name: "evaluate"
+    help: "Evaluate the model and export metrics"
+    script:
+      - "spacy evaluate ./extract_items/training/model-last corpus/${vars.dev}.spacy --output ./extract_items/training/case_cover/metrics-${vars.config}.json"
+    deps:
+      - "./extract_items/data/cover_page/${vars.test}.spacy"
+      - "./extract_items/training/case_cover/model-last"
+    outputs:
+      - "./extract_items/training/case_cover/metrics-${vars.config}.json"
+
+  - name: "package"
+    help: "Package the trained model so it can be installed"
+    script:
+      - "spacy package ./extract_items/training/case_cover/model-last --name ${vars.name} --force"
+    deps:
+      - "./extract_items/training/case_cover/model-last"
+    outputs_no_cache:
+      - "./extract_items/packages/en_${vars.name}/dist/en_${vars.name}.tar.gz"
+
+
+
+
+
