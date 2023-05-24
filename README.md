@@ -21,7 +21,7 @@ Requirements: [requirements.txt](requirements.txt)
 #### Data:
 [CanLII](https://www.canlii.org/en/ca/irb/#search/type=decision&ccId=cisr&text=EXACT%20(Refugee)&origType=decision&origCcId=cisr) provides a dataset of 59,112 refugee cases associated with the Immigration and Refugee Board of Canada. The data is provided online in HTML and can be downloaded as PDF.
 
-The raw data is not published on this github. It is accessible upon request.
+The raw data is not published on this github. It is available upon request.
 
 | Terminology/Gazetter  | |
 | ------------- | ------------- |
