@@ -67,8 +67,8 @@ The script [prodigy_explanation.sh](extract_items/data/prodigy_explanation.sh) c
 
 The bash script [run.sh](extract_items/run.sh) contains an example on how to train the models using configuration files using Spacy.
 
+Trained models can be found at this link: https://huggingface.co/clairebarale/refugee_cases_ner
 Models can be packaged using the "spacy package" command. 
-
 
 #### Scripts:
 [preprocessing_scripts](extract_items/preprocessing_scripts) holds necessary script to curate the training data. 
