@@ -1,0 +1,1002 @@
+{"label":"EXPLANATION","pattern":[{"lower":"possible"},{"lower":"torture"}]}
+{"label":"EXPLANATION","pattern":[{"lower":"brutalization"}]}
+{"label":"EXPLANATION","pattern":[{"lower":"risk"},{"lower":"life"}]}
+{"label":"EXPLANATION","pattern":[{"lower":"physical"},{"lower":"and"},{"lower":"mental"},{"lower":"torture"}]}
+{"label":"EXPLANATION","pattern":[{"lower":"physical"},{"lower":"torture"}]}
+{"label":"EXPLANATION","pattern":[{"lower":"inhuman"},{"lower":"treatment"}]}
+{"label":"EXPLANATION","pattern":[{"lower":"horrific"},{"lower":"torture"}]}
+{"label":"EXPLANATION","pattern":[{"lower":"brutal"},{"lower":"torture"}]}
+{"label":"EXPLANATION","pattern":[{"lower":"tortures"}]}
+{"label":"EXPLANATION","pattern":[{"lower":"torturing"}]}
+{"label":"EXPLANATION","pattern":[{"lower":"psychological"},{"lower":"torture"}]}
+{"label":"EXPLANATION","pattern":[{"lower":"unspeakable"},{"lower":"torture"}]}
+{"label":"EXPLANATION","pattern":[{"lower":"horrific"},{"lower":"treatment"}]}
+{"label":"EXPLANATION","pattern":[{"lower":"mistreatment"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"mutiliation"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"school"}]}
+{"label":"EXPLANATION","pattern":[{"lower":"appellant is established"}]}
+{"label":"EXPLANATION","pattern":[{"lower":"establishment"}]}
+{"label":"EXPLANATION","pattern":[{"lower":"physical"},{"lower":"and"},{"lower":"psychological"},{"lower":"torture"}]}
+{"label":"EXPLANATION","pattern":[{"lower":"prolonged"},{"lower":"torture"}]}
+{"label":"EXPLANATION","pattern":[{"lower":"cruel"},{"lower":"torture"}]}
+{"label":"EXPLANATION","pattern":[{"lower":"horrendous"},{"lower":"torture"}]}
+{"label":"EXPLANATION","pattern":[{"lower":"inhumane"},{"lower":"treatment"}]}
+{"label":"EXPLANATION","pattern":[{"lower":"systematic"},{"lower":"torture"}]}
+{"label":"EXPLANATION","pattern":[{"lower":"cruel"},{"lower":"treatment"}]}
+{"label":"EXPLANATION","pattern":[{"lower":"severe"},{"lower":"physical"},{"lower":"abuse"}]}
+{"label":"EXPLANATION","pattern":[{"lower":"torture"}]}
+{"label":"EXPLANATION","pattern":"cruel and unusual treatment"}
+{"label":"EXPLANATION","pattern":"possibility of rehabilitation"}
+{"label":"EXPLANATION","pattern":"ground of risk to life"}
+{"label":"EXPLANATION","pattern":"no prospective risk"}
+{"label":"EXPLANATION","pattern":"lacked subjective fear"}
+{"label":"EXPLANATION","pattern":"risk to life"}
+{"label":"EXPLANATION","pattern":"lack of subjective fear"}
+{"label":"EXPLANATION","pattern":"state is unable to protect"}
+{"label":"EXPLANATION","pattern":"state protection"}
+{"label":"EXPLANATION","pattern":"unusual treatment"}
+{"label":"EXPLANATION","pattern":"serious harm of persecution"}
+{"label":"EXPLANATION","pattern":"danger of being tortured"}
+{"label":"EXPLANATION","pattern":"cruel treatment"}
+{"label":"EXPLANATION","pattern":"no nexus to any of the five convention grounds"}
+{"label":"LEGAL_GROUND","pattern":"well-founded fear of persecution"}
+{"label":"EXPLANATION","pattern":"no nexus"}
+{"label":"EXPLANATION","pattern":"not who they claim to be"}
+{"label":"EXPLANATION","pattern":"lack of effort"}
+{"label":"EXPLANATION","pattern":"support"}
+{"label":"EXPLANATION","pattern":"asylum shopping"}
+{"label":"EXPLANATION","pattern":"best interest of the child"}
+{"label":"LEGAL_GROUND","pattern":[{"lower":"lack"},{"lower":"effort"}]}
+{"label":"LEGAL_GROUND","pattern":[{"lower":"genuine"},{"lower":"fear of persecution"}]}
+{"label":"LEGAL_GROUND","pattern":[{"lower":"gender"}]}
+{"label":"LEGAL_GROUND","pattern":[{"lower":"ethnic"},{"lower":"background"}]}
+{"label":"LEGAL_GROUND","pattern":[{"lower":"ethnicity"}]}
+{"label":"LEGAL_GROUND","pattern":[{"lower":"racial"},{"lower":"background"}]}
+{"label":"LEGAL_GROUND","pattern":[{"lower":"religion"}]}
+{"label":"LEGAL_GROUND","pattern":[{"lower":"religious"},{"lower":"affiliation"}]}
+{"label":"LEGAL_GROUND","pattern":[{"lower":"racial"},{"lower":"origin"}]}
+{"label":"LEGAL_GROUND","pattern":[{"lower":"skin"},{"lower":"color"}]}
+{"label":"LEGAL_GROUND","pattern":[{"lower":"political"},{"lower":"orientation"}]}
+{"label":"LEGAL_GROUND","pattern":[{"lower":"political"},{"lower":"view"}]}
+{"label":"LEGAL_GROUND","pattern":[{"lower":"skin"},{"lower":"colour"}]}
+{"label":"LEGAL_GROUND","pattern":[{"lower":"sexual"},{"lower":"or"},{"lower":"gender"},{"lower":"identity"}]}
+{"label":"LEGAL_GROUND","pattern":[{"lower":"religious"},{"lower":"views"}]}
+{"label":"LEGAL_GROUND","pattern":[{"lower":"political"},{"lower":"belief"}]}
+{"label":"LEGAL_GROUND","pattern":[{"lower":"ethnic"},{"lower":"group"}]}
+{"label":"LEGAL_GROUND","pattern":[{"lower":"political"}]}
+{"label":"LEGAL_GROUND","pattern":[{"lower":"political"},{"lower":"affiliations"}]}
+{"label":"LEGAL_GROUND","pattern":[{"lower":"sexual"},{"lower":"/"},{"lower":"romantic"},{"lower":"orientation"}]}
+{"label":"LEGAL_GROUND","pattern":[{"lower":"sexual"},{"lower":"orientation"}]}
+{"label":"LEGAL_GROUND","pattern":[{"lower":"sexual"},{"lower":"identity"}]}
+{"label":"LEGAL_GROUND","pattern":[{"lower":"religious"},{"lower":"orientation"}]}
+{"label":"LEGAL_GROUND","pattern":[{"lower":"racial"},{"lower":"identity"}]}
+{"label":"LEGAL_GROUND","pattern":[{"lower":"sexual"},{"lower":"preferences"}]}
+{"label":"LEGAL_GROUND","pattern":[{"lower":"ethnic"},{"lower":"origin"}]}
+{"label":"LEGAL_GROUND","pattern":[{"lower":"group"},{"lower":"identity"}]}
+{"label":"LEGAL_GROUND","pattern":[{"lower":"social"},{"lower":"class"}]}
+{"label":"LEGAL_GROUND","pattern":[{"lower":"religious"},{"lower":"/"},{"lower":"political"},{"lower":"beliefs"}]}
+{"label":"LEGAL_GROUND","pattern":[{"lower":"nationality"}]}
+{"label":"LEGAL_GROUND","pattern":[{"lower":"ethnic"},{"lower":"heritage"}]}
+{"label":"LEGAL_GROUND","pattern":[{"lower":"political"},{"lower":"alignment"}]}
+{"label":"LEGAL_GROUND","pattern":[{"lower":"cultural"},{"lower":"background"}]}
+{"label":"LEGAL_GROUND","pattern":[{"lower":"sexuality"}]}
+{"label":"LEGAL_GROUND","pattern":[{"lower":"religious"},{"lower":"beliefs"}]}
+{"label":"LEGAL_GROUND","pattern":[{"lower":"cultural"},{"lower":"identity"}]}
+{"label":"LEGAL_GROUND","pattern":[{"lower":"race"}]}
+{"label":"LEGAL_GROUND","pattern":[{"lower":"national"},{"lower":"origin"}]}
+{"label":"LEGAL_GROUND","pattern":[{"lower":"political"},{"lower":"affiliation"}]}
+{"label":"LEGAL_GROUND","pattern":[{"lower":"religious"},{"lower":"or"},{"lower":"political"},{"lower":"views"}]}
+{"label":"LEGAL_GROUND","pattern":[{"lower":"ethnic"},{"lower":"identity"}]}
+{"label":"LEGAL_GROUND","pattern":[{"lower":"gender"},{"lower":"identity"}]}
+{"label":"LEGAL_GROUND","pattern":[{"lower":"religious"},{"lower":"identity"}]}
+{"label":"LEGAL_GROUND","pattern":[{"lower":"skin"},{"lower":"-"},{"lower":"colour"}]}
+{"label":"LEGAL_GROUND","pattern":[{"lower":"racial"},{"lower":"group"}]}
+{"label":"LEGAL_GROUND","pattern":[{"lower":"racial"},{"lower":"ethnicity"}]}
+{"label":"LEGAL_GROUND","pattern":[{"lower":"political"},{"lower":"ideology"}]}
+{"label":"LEGAL_GROUND","pattern":[{"lower":"political"},{"lower":"identity"}]}
+{"label":"LEGAL_GROUND","pattern":[{"lower":"perceived"},{"lower":"race"}]}
+{"label":"LEGAL_GROUND","pattern":[{"lower":"political"},{"lower":"views"}]}
+{"label":"LEGAL_GROUND","pattern":[{"lower":"political"},{"lower":"stance"}]}
+{"label":"LEGAL_GROUND","pattern":[{"lower":"religious"},{"lower":"belief"}]}
+{"label":"LEGAL_GROUND","pattern":[{"lower":"sexual"},{"lower":"preference"}]}
+{"label":"LEGAL_GROUND","pattern":[{"lower":"political"},{"lower":"preference"}]}
+{"label":"LEGAL_GROUND","pattern":[{"lower":"social"},{"lower":"group"}]}
+{"label":"LEGAL_GROUND","pattern":[{"lower":"political"},{"lower":"opinion"}]}
+{"label":"LEGAL_GROUND","pattern":[{"lower":"political"},{"lower":"beliefs"}]}
+{"label":"LEGAL_GROUND","pattern":"by reason of their particular social group"}
+{"label":"LEGAL_GROUND","pattern":"religion"}
+{"label":"LEGAL_GROUND","pattern":"race"}
+{"label":"LEGAL_GROUND","pattern":"state's inability to protect"}
+{"label":"LEGAL_GROUND","pattern":"nationality"}
+{"label":"LEGAL_GROUND","pattern":"membership in the particular social group"}
+{"label":"LEGAL_GROUND","pattern":"political"}
+{"label":"LEGAL_GROUND","pattern":"social group"}
+{"label":"LEGAL_GROUND","pattern":"gender"}
+{"label":"LEGAL_GROUND","pattern":"ethnicity"}
+{"label":"DETERMINATION","pattern":"the claimant is neither a convention refugee"}
+{"label":"DETERMINATION","pattern":"panel concluded"}
+{"label":"DETERMINATION","pattern":"appellants are not convention refugees nor persons in need of protection"}
+{"label":"DETERMINATION","pattern":"finds that the claimant is a convention refugee"}
+{"label":"DETERMINATION","pattern":"ground of refusal"}
+{"label":"DETERMINATION","pattern":"panel determines that xxxxx xxxxx is a \u201cconvention refugee\u201d"}
+{"label":"DETERMINATION","pattern":"nor a person in need of protection"}
+{"label":"DETERMINATION","pattern":"positive determination"}
+{"label":"DETERMINATION","pattern":"appellant is excluded from the application of the refugee protection regime"}
+{"label":"DETERMINATION","pattern":"allows the refugee protection claimant"}
+{"label":"DETERMINATION","pattern":"negative determination"}
+{"label":"DETERMINATION","pattern":"panel determines that xxxxx xxxxx is not a \u201cconvention refugee\u201d"}
+{"label":"DETERMINATION","pattern":"claimant xxxxx xxxxx is a \u201cconvention refugee\u201d"}
+{"label":"DETERMINATION","pattern":"not a person in need of protection"}
+{"label":"DETERMINATION","pattern":"are not convention refugees under section 96 of the irpa"}
+{"label":"DETERMINATION","pattern":"application is allowed"}
+{"label":"DETERMINATION","pattern":"claims for refugee protection should not be allowed"}
+{"label":"DETERMINATION","pattern":"rejects the claim"}
+{"label":"DETERMINATION","pattern":"did not demonstrate"}
+{"label":"DETERMINATION","pattern":"they are not persons in need of protection"}
+{"label":"EXPLANATION","pattern":"on a balance of probabilities"}
+{"label":"DETERMINATION","pattern":"rpd incorrectly analyzed the appellant\u2019s claim"}
+{"label":"DETERMINATION","pattern":"appeal is dismissed"}
+{"label":"DETERMINATION","pattern":"appeal is allowed"}
+{"label":"DETERMINATION","pattern":"rpd\u2019s decision was not correct"}
+{"label":"DETERMINATION","pattern":"rpd\u2019s decision was correct"}
+{"label":"DETERMINATION","pattern":"claims for refugee protection are rejected"}
+{"label":"DETERMINATION","pattern":"neither convention refugees nor personsin need of protection"}
+{"label":"DOC_EVIDENCE","pattern":"forged documents"}
+{"label":"DOC_EVIDENCE","pattern":"travel documents"}
+{"label":"DOC_EVIDENCE","pattern":"dna test"}
+{"label":"DOC_EVIDENCE","pattern":"personal information form"}
+{"label":"DOC_EVIDENCE","pattern":"boc"}
+{"label":"DOC_EVIDENCE","pattern":"memorandum"}
+{"label":"DOC_EVIDENCE","pattern":"poe notes"}
+{"label":"DOC_EVIDENCE","pattern":"port of entry notes"}
+{"label":"DOC_EVIDENCE","pattern":"immigration interview"}
+{"label":"DOC_EVIDENCE","pattern":"decisive fresh evidence"}
+{"label":"DOC_EVIDENCE","pattern":"death certificates"}
+{"label":"DOC_EVIDENCE","pattern":"no documentary evidence"}
+{"label":"DOC_EVIDENCE","pattern":"documentary evidence"}
+{"label":"DOC_EVIDENCE","pattern":"fake documents"}
+{"label":"DOC_EVIDENCE","pattern":"dna testing"}
+{"label":"DOC_EVIDENCE","pattern":"failed to provide any reliable evidence"}
+{"label":"DOC_EVIDENCE","pattern":"viva voce testimony"}
+{"label":"DOC_EVIDENCE","pattern":"fraudulent documents"}
+{"label":"DOC_EVIDENCE","pattern":[{"lower":"certified"},{"lower":"birth"},{"lower":"certificate"}]}
+{"label":"DOC_EVIDENCE","pattern":[{"lower":"citizenship"},{"lower":"certificate"}]}
+{"label":"DOC_EVIDENCE","pattern":[{"lower":"identification"},{"lower":"document"}]}
+{"label":"DOC_EVIDENCE","pattern":[{"lower":"temporary"},{"lower":"i"},{"lower":"d"}]}
+{"label":"DOC_EVIDENCE","pattern":[{"lower":"passport"},{"lower":"application"}]}
+{"label":"DOC_EVIDENCE","pattern":[{"lower":"photographs"}]}
+{"label":"DOC_EVIDENCE","pattern":[{"lower":"name"},{"lower":"change"},{"lower":"form"}]}
+{"label":"DOC_EVIDENCE","pattern":[{"lower":"oral"},{"lower":"testimony"}]}
+{"label":"DOC_EVIDENCE","pattern":[{"lower":"resident"},{"lower":"card"}]}
+{"label":"DOC_EVIDENCE","pattern":[{"lower":"immigration"},{"lower":"application"}]}
+{"label":"DOC_EVIDENCE","pattern":[{"lower":"identification"},{"lower":"documents"}]}
+{"label":"DOC_EVIDENCE","pattern":[{"lower":"permanent"},{"lower":"residency"},{"lower":"card"}]}
+{"label":"DOC_EVIDENCE","pattern":[{"lower":"fraudulent"},{"lower":"documents"}]}
+{"label":"DOC_EVIDENCE","pattern":[{"lower":"internal"},{"lower":"passport"}]}
+{"label":"DOC_EVIDENCE","pattern":[{"lower":"identity"},{"lower":"card"}]}
+{"label":"DOC_EVIDENCE","pattern":[{"lower":"residency"},{"lower":"documents"}]}
+{"label":"DOC_EVIDENCE","pattern":[{"lower":"current"},{"lower":"i"},{"lower":"d"}]}
+{"label":"DOC_EVIDENCE","pattern":[{"lower":"immigrant"},{"lower":"visa"}]}
+{"label":"DOC_EVIDENCE","pattern":[{"lower":"birth"},{"lower":"registration"}]}
+{"label":"DOC_EVIDENCE","pattern":[{"lower":"naturalization"},{"lower":"certificate"}]}
+{"label":"DOC_EVIDENCE","pattern":[{"lower":"citizenship"},{"lower":"card"}]}
+{"label":"DOC_EVIDENCE","pattern":[{"lower":"previous"},{"lower":"passport"}]}
+{"label":"DOC_EVIDENCE","pattern":[{"lower":"replacement"},{"lower":"passport"}]}
+{"label":"DOC_EVIDENCE","pattern":[{"lower":"visa"},{"lower":"stamp"}]}
+{"label":"DOC_EVIDENCE","pattern":[{"lower":"birth"},{"lower":"documents"}]}
+{"label":"DOC_EVIDENCE","pattern":[{"lower":"marriage"},{"lower":"registration"}]}
+{"label":"DOC_EVIDENCE","pattern":[{"lower":"temporary"},{"lower":"residence"},{"lower":"permit"}]}
+{"label":"DOC_EVIDENCE","pattern":[{"lower":"emergency"},{"lower":"travel"},{"lower":"documents"}]}
+{"label":"DOC_EVIDENCE","pattern":[{"lower":"airline"},{"lower":"ticket"}]}
+{"label":"DOC_EVIDENCE","pattern":[{"lower":"resident"},{"lower":"permit"}]}
+{"label":"DOC_EVIDENCE","pattern":[{"lower":"proof"}]}
+{"label":"DOC_EVIDENCE","pattern":[{"lower":"residency"},{"lower":"card"}]}
+{"label":"DOC_EVIDENCE","pattern":[{"lower":"official"},{"lower":"i"},{"lower":"d"}]}
+{"label":"DOC_EVIDENCE","pattern":[{"lower":"birth"},{"lower":"certificate"}]}
+{"label":"DOC_EVIDENCE","pattern":[{"lower":"foreign"},{"lower":"passport"}]}
+{"label":"DOC_EVIDENCE","pattern":[{"lower":"letter"}]}
+{"label":"DOC_EVIDENCE","pattern":[{"lower":"permanent"},{"lower":"resident"},{"lower":"card"}]}
+{"label":"DOC_EVIDENCE","pattern":[{"lower":"own"},{"lower":"birth"},{"lower":"certificate"}]}
+{"label":"DOC_EVIDENCE","pattern":[{"lower":"marriage"},{"lower":"cert"}]}
+{"label":"DOC_EVIDENCE","pattern":[{"lower":"employment"},{"lower":"authorization"}]}
+{"label":"DOC_EVIDENCE","pattern":[{"lower":"police"},{"lower":"certificates"}]}
+{"label":"DOC_EVIDENCE","pattern":[{"lower":"renewed"},{"lower":"passport"}]}
+{"label":"DOC_EVIDENCE","pattern":[{"lower":"identity"},{"lower":"document"}]}
+{"label":"DOC_EVIDENCE","pattern":[{"lower":"full"},{"lower":"birth"},{"lower":"certificate"}]}
+{"label":"DOC_EVIDENCE","pattern":[{"lower":"passports"}]}
+{"label":"DOC_EVIDENCE","pattern":[{"lower":"new"},{"lower":"social"},{"lower":"security"},{"lower":"card"}]}
+{"label":"DOC_EVIDENCE","pattern":[{"lower":"old"},{"lower":"passports"}]}
+{"label":"DOC_EVIDENCE","pattern":[{"lower":"social"},{"lower":"security"},{"lower":"card"}]}
+{"label":"DOC_EVIDENCE","pattern":[{"lower":"birth"},{"lower":"certificates"}]}
+{"label":"DOC_EVIDENCE","pattern":[{"lower":"testimonies"}]}
+{"label":"DOC_EVIDENCE","pattern":[{"lower":"actual"},{"lower":"visa"}]}
+{"label":"DOC_EVIDENCE","pattern":[{"lower":"forged"},{"lower":"documents"}]}
+{"label":"DOC_EVIDENCE","pattern":[{"lower":"naturalization"},{"lower":"papers"}]}
+{"label":"DOC_EVIDENCE","pattern":[{"lower":"visa"},{"lower":"applications"}]}
+{"label":"DOC_EVIDENCE","pattern":[{"lower":"travel"},{"lower":"document"}]}
+{"label":"DOC_EVIDENCE","pattern":[{"lower":"evidence"}]}
+{"label":"DOC_EVIDENCE","pattern":[{"lower":"affidavit"}]}
+{"label":"DOC_EVIDENCE","pattern":[{"lower":"i"},{"lower":"d"},{"lower":"document"}]}
+{"label":"DOC_EVIDENCE","pattern":[{"lower":"original"},{"lower":"passport"}]}
+{"label":"DOC_EVIDENCE","pattern":[{"lower":"passport"},{"lower":"copies"}]}
+{"label":"DOC_EVIDENCE","pattern":[{"lower":"death"},{"lower":"certificates"}]}
+{"label":"DOC_EVIDENCE","pattern":[{"lower":"old"},{"lower":"passport"}]}
+{"label":"DOC_EVIDENCE","pattern":[{"lower":"taxpayer"},{"lower":"identification"},{"lower":"number"}]}
+{"label":"DOC_EVIDENCE","pattern":[{"lower":"local"},{"lower":"i"},{"lower":"d"}]}
+{"label":"DOC_EVIDENCE","pattern":[{"lower":"state"},{"lower":"driver"},{"lower":"'s"},{"lower":"license"}]}
+{"label":"DOC_EVIDENCE","pattern":[{"lower":"i"},{"lower":"d"},{"lower":"card"}]}
+{"label":"DOC_EVIDENCE","pattern":[{"lower":"immigration"},{"lower":"documents"}]}
+{"label":"DOC_EVIDENCE","pattern":[{"lower":"replacement"},{"lower":"birth"},{"lower":"certificate"}]}
+{"label":"DOC_EVIDENCE","pattern":[{"lower":"address"},{"lower":"proof"}]}
+{"label":"DOC_EVIDENCE","pattern":[{"lower":"social"},{"lower":"insurance"},{"lower":"number"}]}
+{"label":"DOC_EVIDENCE","pattern":[{"lower":"residence"},{"lower":"card"}]}
+{"label":"DOC_EVIDENCE","pattern":[{"lower":"passport"}]}
+{"label":"DOC_EVIDENCE","pattern":[{"lower":"name"},{"lower":"change"},{"lower":"certificate"}]}
+{"label":"DOC_EVIDENCE","pattern":[{"lower":"tax"},{"lower":"file"},{"lower":"number"}]}
+{"label":"DOC_EVIDENCE","pattern":[{"lower":"actual"},{"lower":"birth"},{"lower":"certificate"}]}
+{"label":"DOC_EVIDENCE","pattern":[{"lower":"visa"},{"lower":"number"}]}
+{"label":"DOC_EVIDENCE","pattern":[{"lower":"permanent"},{"lower":"residence"},{"lower":"card"}]}
+{"label":"DOC_EVIDENCE","pattern":[{"lower":"police"},{"lower":"certificate"}]}
+{"label":"DOC_EVIDENCE","pattern":[{"lower":"us"},{"lower":"passport"}]}
+{"label":"DOC_EVIDENCE","pattern":[{"lower":"passport"},{"lower":"records"}]}
+{"label":"DOC_EVIDENCE","pattern":[{"lower":"appeal"},{"lower":"record"}]}
+{"label":"DOC_EVIDENCE","pattern":[{"lower":"current"},{"lower":"passport"}]}
+{"label":"DOC_EVIDENCE","pattern":[{"lower":"issued"},{"lower":"i"},{"lower":"d"},{"lower":"card"}]}
+{"label":"DOC_EVIDENCE","pattern":[{"lower":"bona"},{"lower":"fide"},{"lower":"marriage"}]}
+{"label":"DOC_EVIDENCE","pattern":[{"lower":"visa"},{"lower":"page"}]}
+{"label":"DOC_EVIDENCE","pattern":[{"lower":"marriage"},{"lower":"certificate"}]}
+{"label":"DOC_EVIDENCE","pattern":[{"lower":"fake"},{"lower":"documents"}]}
+{"label":"DOC_EVIDENCE","pattern":[{"lower":"new"},{"lower":"passport"}]}
+{"label":"DOC_EVIDENCE","pattern":[{"lower":"new"},{"lower":"evidence"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"orphan"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"victim"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"pilgrimage"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"father"},{"lower":"-"},{"lower":"in"},{"lower":"-"},{"lower":"law"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"dialysis"},{"lower":"treatment"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"murder"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"abuse"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"fire"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"hangings"}]}
+{"label":"CREDIBILITY","pattern":[{"lower":"genuine"},{"lower":"marriage"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"spouses"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"debt"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"polygamy"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"soldier"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"genocide"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"human"},{"lower":"rights"},{"lower":"violations"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"sexually"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"adoptive"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"monarchists"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"paramilitaries"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"burqa"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"rich"},{"lower":"merchants"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"terrorist"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"war"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"psychological"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"violence"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"smuggler"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"blood"},{"lower":"transfusions"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"terrorist"},{"lower":"organization"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"lovers"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"widowed"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"assailants"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"conscription"}]}
+{"label":"LEGAL_GROUND","pattern":[{"lower":"persecuted"},{"lower":"minority"},{"lower":"group"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"violent"},{"lower":"crime"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"political"},{"lower":"affiliation"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"caste"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"parent"},{"lower":"-"},{"lower":"child"},{"lower":"relationship"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"assassination"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"manhunt"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"bondage"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"excessive"},{"lower":"demands"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"abortion"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"mafia"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"medical"},{"lower":"report"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"military"},{"lower":"police"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"sect"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"racism-"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"medical"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"concealment"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"corrupt"},{"lower":"police"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"separatist"},{"lower":"movement"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"child"},{"lower":"relationship"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"serious"},{"lower":"criminality"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"pregnant"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"domestic"},{"lower":"violence"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"policeman"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"natural"},{"lower":"parents"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"extremist"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"prostitution"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"superiors"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"clan"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"bandits"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"minor"},{"lower":"children"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"ethnic"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"ill"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"gang"},{"lower":"member"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"rebels"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"transvestite"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"permanent"},{"lower":"residence"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"kidnapped"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"religious"},{"lower":"beliefs"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"offence"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"bargains"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"fundamentalists"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"militant"},{"lower":"groups"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"extortioners"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"perpetrator"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"divorce"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"propagandist"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"accident"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"revolutionary"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"custody"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"excised"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"cocaine"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"conflicts"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"abortions"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"criminal"},{"lower":"conviction"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"abandon"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"soldiers"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"hezbollah"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"right"},{"lower":"-"},{"lower":"wing"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"sterilized"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"pregnancy"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"baby"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"academic"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"abuser"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"bomb"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"fertility"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"domestic"},{"lower":"abuse"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"caretaker"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"surrogate"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"bribe"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"heroin"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"weapon"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"prisons"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"religious"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"death"},{"lower":"threats"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"serious"},{"lower":"harm"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"criminality"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"triad"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"war"},{"lower":"crimes"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"persecutors"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"organised"},{"lower":"crime"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"jeweller"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"housekeeper"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"drug"},{"lower":"addiction"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"corrupt"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"suicide"},{"lower":"bombers"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"ancestral"},{"lower":"village"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"handicapped"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"forced"},{"lower":"recruitment"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"criminal"},{"lower":"convictions"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"alleged"},{"lower":"terrorists"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"runaway"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"birth"},{"lower":"parents"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"dowry"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"military"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"breast"},{"lower":"cancer"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"vandalism"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"blood"},{"lower":"feud"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"minorities"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"racist"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"dangerous"},{"lower":"journey"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"dependent"},{"lower":"child"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"clinic"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"cirrhosis"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"organized"},{"lower":"criminality"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"activists"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"business"},{"lower":"project"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"skinheads"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"peasant"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"missiles"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"alcohol"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"misappropriation"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"goldsmithing"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"caravaning"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"armed"},{"lower":"forces"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"fear"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"social"},{"lower":"outing"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"therapy"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"camps"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"disabled"},{"lower":"persons"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"sailors"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"indecent"},{"lower":"assault"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"schizoaffective"},{"lower":"disorder"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"army"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"human"},{"lower":"rights"},{"lower":"abuses"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"mother"},{"lower":"-"},{"lower":"in"},{"lower":"-"},{"lower":"law"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"rites"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"imprisonment"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"rape"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"soviet"},{"lower":"union"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"worshipping"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"denunciation"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"street"},{"lower":"gang"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"deaf"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"conjugal"},{"lower":"relationship"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"civilians"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"extremists"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"drug"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"husband"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"rival"},{"lower":"gang"},{"lower":"members"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"houseboy"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"crack"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"police"},{"lower":"force"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"abuses"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"guerilla"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"prisoners"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"political"},{"lower":"activities"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"conspiracy"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"explosion"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"explosives"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"stabbing"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"sterilization"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"mischief"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"deportations"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"matrimony"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"threat"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"schizophrenia"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"torture"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"disappearances"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"offense"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"union"},{"lower":"activities"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"typhoid"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"abducted"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"jewish"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"killings"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"bomb"},{"lower":"blast"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"earthquake"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"religious"},{"lower":"marriages"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"biological"},{"lower":"children"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"compulsory"},{"lower":"military"},{"lower":"service"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"financial"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"duress"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"commando"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"customary"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"extortion"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"guerrilla"},{"lower":"group"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"excommunicated"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"prison"},{"lower":"guards"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"extrajudicial"},{"lower":"killings"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"priest"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"bride"},{"lower":"price"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"murder"},{"lower":"attempts"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"institutions"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"training"},{"lower":"camp"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"adoptive"},{"lower":"parents"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"military"},{"lower":"service"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"honour"},{"lower":"killings"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"sex"},{"lower":"trade"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"marijuana"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"bursary"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"polygamist"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"neighbour"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"surgery"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"maiden"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"children"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"assault"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"baptism"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"atrocities"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"intermarriage"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"physical"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"teachers"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"money"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"bombing"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"landlord"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"bodily"},{"lower":"harm"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"university"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"psychiatrist"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"extradition"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"affair"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"same"},{"lower":"-"},{"lower":"sex"},{"lower":"couples"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"jew"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"fianc\u00e9"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"godmother"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"girlfriends"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"resistance"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"bigamy"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"retroviruses"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"consanguinity"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"aggravated"},{"lower":"assault"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"brutalities"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"discrimination"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"temporary"},{"lower":"marriage"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"ethnic"},{"lower":"minorities"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"former"},{"lower":"husband"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"rival"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"biological"},{"lower":"father"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"moneylenders"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"kidnappers"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"dissident"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"policemen"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"militant"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"blindfolded"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"killed"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"mental"},{"lower":"disability"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"lover"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"blood"},{"lower":"feuds"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"religious"},{"lower":"ceremony"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"security"},{"lower":"guard"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"dialect"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"sectarian"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"marihuana"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"reservist"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"maltreatment"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"adoption"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"boat"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"dementia"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"checkpoint"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"boyfriend"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"farm"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"drinking"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"hatchery"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"kidnappings"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"beaten"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"conjugal"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"ancestry"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"medications"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"firearms"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"assault"},{"lower":"charges"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"prostitutes"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"health"},{"lower":"services"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"weapons"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"stepsisters"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"vendetta"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"spousal"},{"lower":"abuse"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"tsunami"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"militias"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"substance"},{"lower":"abuse"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"kidney"},{"lower":"transplant"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"mosque"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"matchmaker"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"vengeance"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"sexual"},{"lower":"assault"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"war"},{"lower":"veterans"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"gambling"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"homicide"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"engagement"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"consanguineous"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"custom"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"social"},{"lower":"services"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"casinos"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"medication"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"secret"},{"lower":"police"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"injuries"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"biological"},{"lower":"parents"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"captivity"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"extortionists"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"security"},{"lower":"forces"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"health"},{"lower":"condition"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"forgery"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"village"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"sexual"},{"lower":"minorities"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"human"},{"lower":"rights"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"political"},{"lower":"identity"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"forced"},{"lower":"abortions"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"cults"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"liver"},{"lower":"cancer"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"researcher"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"opponent"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"unmarried"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"feud"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"corruption"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"smuggling"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"anti"},{"lower":"-"},{"lower":"semitic"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"tribe"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"xenophobia"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"cannabis"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"poison"},{"lower":"pen"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"student"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"junta"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"astrologer"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"adopted"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"forced"},{"lower":"marriage"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"drug"},{"lower":"trafficking"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"obese"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"diagnosis"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"stepfather"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"robbery"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"syria"}]}
+{"label":"CLAIMANT_INFO","pattern":"full-time student"}
+{"label":"CLAIMANT_INFO","pattern":"dependent child"}
+{"label":"CLAIMANT_INFO","pattern":"associated claimant"}
+{"label":"CLAIMANT_INFO","pattern":"co-claimant"}
+{"label":"CLAIMANT_INFO","pattern":"20 years-old"}
+{"label":"CLAIMANT_INFO","pattern":"claimant are minors"}
+{"label":"CLAIMANT_INFO","pattern":"male claimant"}
+{"label":"CLAIMANT_INFO","pattern":"minor daughter"}
+{"label":"CLAIMANT_INFO","pattern":"dependent child"}
+{"label":"CLAIMANT_INFO","pattern":"minor son"}
+{"label":"CLAIMANT_INFO","pattern":"female claimant"}
+{"label":"CLAIMANT_INFO","pattern":"adult male claimant"}
+{"label":"CLAIMANT_INFO","pattern":[{"lower":"man"}]}
+{"label":"CLAIMANT_INFO","pattern":[{"lower":"transgendered"}]}
+{"label":"CLAIMANT_INFO","pattern":[{"lower":"queer"},{"lower":"label"}]}
+{"label":"CLAIMANT_INFO","pattern":[{"lower":"trans"},{"lower":"woman"}]}
+{"label":"CLAIMANT_INFO","pattern":[{"lower":"cisgendered"},{"lower":"person"}]}
+{"label":"CLAIMANT_INFO","pattern":[{"lower":"cisgender"}]}
+{"label":"CLAIMANT_INFO","pattern":[{"lower":"woman"}]}
+{"label":"CLAIMANT_INFO","pattern":[{"lower":"citizenship"}]}
+{"label":"CLAIMANT_INFO","pattern":[{"lower":"transsexual"}]}
+{"label":"CLAIMANT_INFO","pattern":[{"lower":"transgender"}]}
+{"label":"CLAIMANT_INFO","pattern":[{"lower":"trans"}]}
+{"label":"CLAIMANT_INFO","pattern":[{"lower":"mental"},{"lower":"illness"}]}
+{"label":"CLAIMANT_INFO","pattern":[{"lower":"male"},{"lower":"trans"},{"lower":"people"}]}
+{"label":"CLAIMANT_INFO","pattern":[{"lower":"gender"}]}
+{"label":"CLAIMANT_INFO","pattern":[{"lower":"gays"}]}
+{"label":"CLAIMANT_INFO","pattern":[{"lower":"sexual"},{"lower":"orientation"}]}
+{"label":"CLAIMANT_INFO","pattern":[{"lower":"bigender"}]}
+{"label":"CLAIMANT_INFO","pattern":[{"lower":"gay"}]}
+{"label":"CLAIMANT_INFO","pattern":[{"lower":"impaired"}]}
+{"label":"CLAIMANT_INFO","pattern":[{"lower":"twenty"},{"lower":"-"},{"lower":"two"},{"lower":"years"}]}
+{"label":"CLAIMANT_INFO","pattern":[{"lower":"female"}]}
+{"label":"CLAIMANT_INFO","pattern":[{"lower":"20"},{"lower":"years"},{"lower":"old"}]}
+{"label":"CLAIMANT_INFO","pattern":[{"lower":"full"},{"lower":"-"},{"lower":"time"},{"lower":"student"}]}
+{"label":"CLAIMANT_INFO","pattern":[{"lower":"community"}]}
+{"label":"CLAIMANT_INFO","pattern":[{"lower":"cisgendered"}]}
+{"label":"CLAIMANT_INFO","pattern":[{"lower":"transfemale"}]}
+{"label":"CLAIMANT_INFO","pattern":[{"lower":"same"},{"lower":"gender"},{"lower":"relationship"}]}
+{"label":"CLAIMANT_INFO","pattern":[{"lower":"disabled"}]}
+{"label":"CLAIMANT_INFO","pattern":[{"lower":"bisexual"},{"lower":"people"}]}
+{"label":"CLAIMANT_INFO","pattern":[{"lower":"lesbians"}]}
+{"label":"CLAIMANT_INFO","pattern":[{"lower":"transgender"},{"lower":"person"}]}
+{"label":"CLAIMANT_INFO","pattern":[{"lower":"sex"},{"lower":"male"}]}
+{"label":"CLAIMANT_INFO","pattern":[{"lower":"male"}]}
+{"label":"CLAIMANT_INFO","pattern":[{"lower":"male"},{"lower":"transgenders"}]}
+{"label":"CLAIMANT_INFO","pattern":[{"lower":"transgender"},{"lower":"man"}]}
+{"label":"CLAIMANT_INFO","pattern":[{"lower":"lesbian"}]}
+{"label":"CLAIMANT_INFO","pattern":[{"lower":"religion"}]}
+{"label":"CLAIMANT_INFO","pattern":[{"lower":"age"}]}
+{"label":"CLAIMANT_INFO","pattern":[{"lower":"employment"}]}
+{"label":"CLAIMANT_INFO","pattern":[{"lower":"ethnicity"}]}
+{"label":"CLAIMANT_INFO","pattern":[{"lower":"bi"},{"lower":"-"},{"lower":"polar"}]}
+{"label":"CLAIMANT_INFO","pattern":[{"lower":"white"},{"lower":"heterosexual"},{"lower":"man"}]}
+{"label":"CLAIMANT_INFO","pattern":[{"lower":"political"},{"lower":"opinion"}]}
+{"label":"CLAIMANT_INFO","pattern":[{"lower":"trans"},{"lower":"person"}]}
+{"label":"CLAIMANT_INFO","pattern":[{"lower":"nephew"}]}
+{"label":"CLAIMANT_INFO","pattern":[{"lower":"heterosexual"}]}
+{"label":"CLAIMANT_INFO","pattern":[{"lower":"female"},{"lower":"homosexual"}]}
+{"label":"CLAIMANT_INFO","pattern":[{"lower":"openly"},{"lower":"transgender"}]}
+{"label":"CLAIMANT_INFO","pattern":[{"lower":"transwoman"}]}
+{"label":"CLAIMANT_INFO","pattern":[{"lower":"occupation"}]}
+{"label":"CLAIMANT_INFO","pattern":[{"lower":"born"},{"lower":"male"}]}
+{"label":"CLAIMANT_INFO","pattern":[{"lower":"born"},{"lower":"female"}]}
+{"label":"CLAIMANT_INFO","pattern":[{"lower":"20"},{"lower":"year"},{"lower":"-"},{"lower":"old"}]}
+{"label":"CLAIMANT_INFO","pattern":[{"lower":"dependent"},{"lower":"child"}]}
+{"label":"CLAIMANT_INFO","pattern":[{"lower":"homosexual"}]}
+{"label":"CLAIMANT_INFO","pattern":[{"lower":"bisexual"}]}
+{"label":"CLAIMANT_INFO","pattern":[{"lower":"homosexuality"}]}
+{"label":"CLAIMANT_INFO","pattern":[{"lower":"minor"},{"lower":"daughter"}]}
+{"label":"CLAIMANT_INFO","pattern":[{"lower":"scholar"}]}
+{"label":"CLAIMANT_EVENT","pattern":"feared husband"}
+{"label":"CLAIMANT_EVENT","pattern":"they feared"}
+{"label":"CLAIMANT_EVENT","pattern":"family not safe"}
+{"label":"CLAIMANT_EVENT","pattern":"feared family"}
+{"label":"CLAIMANT_EVENT","pattern":"engaged in terrorism"}
+{"label":"CLAIMANT_EVENT","pattern":"obstructing police"}
+{"label":"CLAIMANT_EVENT","pattern":"had been shot"}
+{"label":"CLAIMANT_EVENT","pattern":"sexually assaulted"}
+{"label":"CLAIMANT_EVENT","pattern":"not protected"}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"harrassed"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"criminal"},{"lower":"activity"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"fled"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"committed"},{"lower":"violence"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"persecuted"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"terrorised"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"lynched"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"kidnap"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"kidnapped"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"harassed"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"molested"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"raped"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"victimized"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"dehumanized"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"terrorized"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"pogromed"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"flee"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"insulted"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"mutilated"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"imprisonned"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"slaughtered"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"genocided"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"rape"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"incarcerated"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"murdered"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"mistreated"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"arrested"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"beaten"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"attempted"},{"lower":"rape"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"attacked"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"assaulted"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"killed"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"tortured"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"widowed"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"gangraped"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"abducted"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"beheaded"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"deported"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"brutalised"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"battered"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"persecute"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"imprisoned"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"jailed"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"brutalized"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"threat"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"enslaved"}]}
+{"label":"CLAIMANT_EVENT","pattern":[{"lower":"escape"}]}
+{"label":"LAW","pattern":"immigration act"}
+{"label":"LAW","pattern":"article 1 of the convention on torture"}
+{"label":"LAW","pattern":"irpa"}
+{"label":"LAW","pattern":"1985"}
+{"label":"LAW","pattern":"section 96 of the immigration and refugee protection act"}
+{"label":"LAW","pattern":"c.1-2"}
+{"label":"LAW","pattern":"paragraphs 973(1)(a) and (b) of the irpa"}
+{"label":"LAW","pattern":"r.s.c."}
+{"label":"LAW","pattern":"immigration and refugee protection act"}
+{"label":"LAW","pattern":"immigration and refugee protection act"}
+{"label":"LAW","pattern":"s.c. 2001 c.27"}
+{"label":"LAW","pattern":"refugee protection division rules"}
+{"label":"LAW","pattern":"as amended s.190"}
+{"label":"LAW","pattern":"convention on torture"}
+{"label":"PROCEDURE","pattern":"deportation order was quashed"}
+{"label":"PROCEDURE","pattern":"two sessions"}
+{"label":"PROCEDURE","pattern":"redetermination"}
+{"label":"PROCEDURE","pattern":"correctness standard"}
+{"label":"PROCEDURE","pattern":"jurisprudence"}
+{"label":"CLAIMANT_INFO","pattern":"co-appellant"}
+{"label":"CLAIMANT_INFO","pattern":"minor appellant"}
+{"label":"PROCEDURE","pattern":"mixed fact and law"}
+{"label":"PROCEDURE","pattern":"dismiss the appeal"}
+{"label":"PROCEDURE","pattern":"exclusion order"}
+{"label":"PROCEDURE","pattern":"redetermination"}
+{"label":"EXPLANATION","pattern":"non-compliance with his residency obligation"}
+{"label":"PROCEDURE","pattern":"sponsorship application"}
+{"label":"PROCEDURE","pattern":"removal orders"}
+{"label":"PROCEDURE","pattern":"appeal"}
+{"label":"PROCEDURE","pattern":"natural justice"}
+{"label":"PROCEDURE","pattern":"removal proceedings"}
+{"label":"PROCEDURE","pattern":"pre-sentence custody"}
+{"label":"PROCEDURE","pattern":"attend an interview"}
+{"label":"PROCEDURE","pattern":"file complaint"}
+{"label":"PROCEDURE","pattern":"internal flight"}
+{"label":"PROCEDURE","pattern":"application to reopen"}
+{"label":"PROCEDURE","pattern":"reportable offence"}
+{"label":"PROCEDURE","pattern":"deportation order"}
+{"label":"PROCEDURE","pattern":"if rpd erred"}
+{"label":"PROCEDURE","pattern":"internal flight alternative"}
+{"label":"PROCEDURE","pattern":"principle of non-refoulement"}
+{"label":"PROCEDURE","pattern":"sponsorship appeals"}
+{"label":"PROCEDURE","pattern":"interview with the visa officer"}
+{"label":"PROCEDURE","pattern":"removal order"}
+{"label":"PROCEDURE","pattern":"second removal"}
+{"label":"PROCEDURE","pattern":"application to vacate"}
+{"label":"PROCEDURE","pattern":"no documentation"}
+{"label":"PROCEDURE","pattern":"not be calling a witness"}
+{"label":"PROCEDURE","pattern":"contravention of his residency obligation"}
+{"label":"PROCEDURE","pattern":"doctrines of res judicata"}
+{"label":"PROCEDURE","pattern":"visa officer s request"}
+{"label":"EXPLANATION","pattern":"family re-unification objective"}
+{"label":"EXPLANATION","pattern":"family class"}
+{"label":"EXPLANATION","pattern":"hardship"}
+{"label":"PROCEDURE","pattern":"removal order issued"}
+{"label":"PROCEDURE","pattern":"warrant special relief"}
+{"label":"PROCEDURE","pattern":"special relief"}
+{"label":"PROCEDURE","pattern":"sponsor s ineligibility"}
+{"label":"PROCEDURE","pattern":"judicial review"}
+{"label":"PROCEDURE","pattern":"procedural fairness"}
+{"label":"PROCEDURE","pattern":"late filing"}
+{"label":"PROCEDURE","pattern":"translation"}
+{"label":"PROCEDURE","pattern":"exclusion orders"}
+{"label":"PROCEDURE","pattern":"criminal conviction"}
+{"label":"PROCEDURE","pattern":"extension of time to file"}
+{"label":"EXPLANATION","pattern":"compassionate grounds"}
+{"label":"EXPLANATION","pattern":"residency obligation"}
+{"label":"EXPLANATION","pattern":"marriage of convenience"}
+{"label":"EXPLANATION","pattern":"family relationship"}
+{"label":"PROCEDURE","pattern":"lack of jurisdiction"}
+{"label":"PROCEDURE","pattern":"sponsored application for landing"}
+{"label":"PROCEDURE","pattern":"sponsorship refusals"}
+{"label":"PROCEDURE","pattern":"sponsored applications for landing"}
+{"label":"PROCEDURE","pattern":"dismissed for lack of jurisdiction"}
+{"label":"PROCEDURE","pattern":"pretrial"}
+{"label":"PROCEDURE","pattern":"receipt of social assistance"}
+{"label":"PROCEDURE","pattern":"abandonment hearing will be re-opened"}
+{"label":"EXPLANATION","pattern":"humanitarian considerations"}
+{"label":"PROCEDURE","pattern":"obliged to issue a deportation"}
+{"label":"PROCEDURE","pattern":"refuse a permanent resident visa"}
+{"label":"PROCEDURE","pattern":"extension of her stay"}
+{"label":"PROCEDURE","pattern":"designated representative"}
+{"label":"PROCEDURE","pattern":"person sits in pre-trial custody"}
+{"label":"PROCEDURE","pattern":"second sponsorship application"}
+{"label":"PROCEDURE","pattern":"pre-sentence incarceration"}
+{"label":"PROCEDURE","pattern":"prescribed period"}
+{"label":"PROCEDURE","pattern":"deportation order"}
+{"label":"PROCEDURE","pattern":"application for non-disclosure of information"}
+{"label":"PROCEDURE","pattern":"non-compliance of the residency obligation"}
+{"label":"EXPLANATION","pattern":"humanitarian and compassionate considerations"}
+{"label":"PROCEDURE","pattern":[{"lower":"capital"},{"lower":"sentence"}]}
+{"label":"EXPLANATION","pattern":[{"lower":"compassionate"},{"lower":"grounds"}]}
+{"label":"PROCEDURE","pattern":[{"lower":"criminal"},{"lower":"conviction"}]}
+{"label":"PROCEDURE","pattern":[{"lower":"extradition"},{"lower":"hearing"}]}
+{"label":"PROCEDURE","pattern":[{"lower":"pretrial"},{"lower":"release"}]}
+{"label":"PROCEDURE","pattern":[{"lower":"procedural"},{"lower":"fairness"}]}
+{"label":"PROCEDURE","pattern":[{"lower":"removal"},{"lower":"order"}]}
+{"label":"PROCEDURE","pattern":[{"lower":"reportable"},{"lower":"offence"}]}
+{"label":"PROCEDURE","pattern":[{"lower":"judicial"},{"lower":"review"}]}
+{"label":"PROCEDURE","pattern":[{"lower":"pretrial"}]}
+{"label":"PROCEDURE","pattern":[{"lower":"legal"},{"lower":"error"}]}
+{"label":"PROCEDURE","pattern":[{"lower":"translation"}]}
+{"label":"PROCEDURE","pattern":[{"lower":"deferred"},{"lower":"judgment"}]}
+{"label":"PROCEDURE","pattern":[{"lower":"federal"},{"lower":"suit"}]}
+{"label":"PROCEDURE","pattern":[{"lower":"administrative"},{"lower":"law"},{"lower":"judge"}]}
+{"label":"PROCEDURE","pattern":[{"lower":"civil"},{"lower":"proceeding"}]}
+{"label":"PROCEDURE","pattern":[{"lower":"restitution"},{"lower":"order"}]}
+{"label":"PROCEDURE","pattern":[{"lower":"internal"},{"lower":"flight"}]}
+{"label":"PROCEDURE","pattern":[{"lower":"deportation"},{"lower":"order"}]}
+{"label":"PROCEDURE","pattern":[{"lower":"appeal"}]}
+{"label":"PROCEDURE","pattern":[{"lower":"file"},{"lower":"complaint"}]}
+{"label":"PROCEDURE","pattern":[{"lower":"criminal"},{"lower":"summons"}]}
+{"label":"PROCEDURE","pattern":[{"lower":"statutory"},{"lower":"release"}]}
+{"label":"PROCEDURE","pattern":[{"lower":"removal"},{"lower":"proceedings"}]}
+{"label":"PROCEDURE","pattern":[{"lower":"indeterminate"},{"lower":"sentence"}]}
+{"label":"PROCEDURE","pattern":[{"lower":"formal"},{"lower":"extradition"},{"lower":"request"}]}
+{"label":"PROCEDURE","pattern":[{"lower":"preliminary"},{"lower":"inquiry"}]}
+{"label":"PROCEDURE","pattern":[{"lower":"administrative"},{"lower":"hearing"}]}
+{"label":"PROCEDURE","pattern":[{"lower":"interim"},{"lower":"order"}]}
+{"label":"PROCEDURE","pattern":[{"lower":"late"},{"lower":"filing"}]}
+{"label":"PROCEDURE","pattern":[{"lower":"ifa"}]}
+{"label":"PROCEDURE","pattern":[{"lower":"civil"},{"lower":"restraining"},{"lower":"order"}]}
+{"label":"CREDIBILITY","pattern":"answered evasively"}
+{"label":"CREDIBILITY","pattern":"no reliable testimony"}
+{"label":"CREDIBILITY","pattern":"not a reliable witness"}
+{"label":"CREDIBILITY","pattern":"credibility concerns"}
+{"label":"CREDIBILITY","pattern":"withholding material facts"}
+{"label":"CREDIBILITY","pattern":"credibility analysis"}
+{"label":"CREDIBILITY","pattern":"deliberate misrepresentation"}
+{"label":"CREDIBILITY","pattern":"credibility findings"}
+{"label":"CREDIBILITY","pattern":"indicated at interview"}
+{"label":"CREDIBILITY","pattern":"claimants testified directly"}
+{"label":"CREDIBILITY","pattern":"with no exaggeration"}
+{"label":"CREDIBILITY","pattern":[{"lower":"new"},{"lower":"testimony"}]}
+{"label":"CREDIBILITY","pattern":[{"lower":"additional"},{"lower":"testimony"}]}
+{"label":"CREDIBILITY","pattern":[{"lower":"witness"},{"lower":"testimony"}]}
+{"label":"CREDIBILITY","pattern":[{"lower":"plausible"},{"lower":"explanation"}]}
+{"label":"CREDIBILITY","pattern":[{"lower":"subsequent"},{"lower":"testimony"}]}
+{"label":"CREDIBILITY","pattern":[{"lower":"official"},{"lower":"testimony"}]}
+{"label":"CREDIBILITY","pattern":[{"lower":"current"},{"lower":"testimony"}]}
+{"label":"CREDIBILITY","pattern":[{"lower":"earlier"},{"lower":"testimony"}]}
+{"label":"CREDIBILITY","pattern":[{"lower":"conflicting"},{"lower":"testimony"}]}
+{"label":"CREDIBILITY","pattern":[{"lower":"alleged"},{"lower":"witness"}]}
+{"label":"CREDIBILITY","pattern":[{"lower":"particular"},{"lower":"allegation"}]}
+{"label":"CREDIBILITY","pattern":[{"lower":"actual"},{"lower":"testimony"}]}
+{"label":"CREDIBILITY","pattern":[{"lower":"satisfactory"},{"lower":"explanation"}]}
+{"label":"CREDIBILITY","pattern":[{"lower":"conflicting"},{"lower":"statement"}]}
+{"label":"CREDIBILITY","pattern":"genuiness of conjugal relationship"}
+{"label":"CREDIBILITY","pattern":"highly implausible"}
+{"label":"CREDIBILITY","pattern":"lacks credibility"}
+{"label":"CREDIBILITY","pattern":"fear for his life"}
+{"label":"EXPLANATION","pattern":"lack of well-founded fear"}
+{"label":"CREDIBILITY","pattern":"fabricate identity"}
+{"label":"CREDIBILITY","pattern":"objectively well-founded"}
+{"label":"CREDIBILITY","pattern":"genuiness of marriage"}
+{"label":"CREDIBILITY","pattern":[{"lower":"misrepresentation"}]}
+{"label":"CREDIBILITY","pattern":[{"lower":"dishonest"}]}
+{"label":"CREDIBILITY","pattern":[{"lower":"demonstrable"},{"lower":"falsehoods"}]}
+{"label":"CREDIBILITY","pattern":[{"lower":"misrepresented"}]}
+{"label":"CREDIBILITY","pattern":[{"lower":"bad"},{"lower":"faith"}]}
+{"label":"CREDIBILITY","pattern":[{"lower":"deliberate"},{"lower":"misrepresentations"}]}
+{"label":"CREDIBILITY","pattern":[{"lower":"deliberate"},{"lower":"falsehoods"}]}
+{"label":"CREDIBILITY","pattern":[{"lower":"intentional"},{"lower":"misrepresentation"}]}
+{"label":"CREDIBILITY","pattern":[{"lower":"bad"},{"lower":"-"},{"lower":"faith"}]}
+{"label":"CREDIBILITY","pattern":[{"lower":"misrepresenting"}]}
+{"label":"CREDIBILITY","pattern":[{"lower":"dishonest"},{"lower":"statements"}]}
+{"label":"CREDIBILITY","pattern":[{"lower":"provably"},{"lower":"false"},{"lower":"statements"}]}
+{"label":"CREDIBILITY","pattern":[{"lower":"misrepresentations"}]}
+{"label":"CREDIBILITY","pattern":[{"lower":"dishonestly"}]}
+{"label":"CREDIBILITY","pattern":[{"lower":"extreme"},{"lower":"bad"},{"lower":"faith"}]}
+{"label":"CREDIBILITY","pattern":[{"lower":"factual"},{"lower":"inconsistencies"}]}
+{"label":"CREDIBILITY","pattern":[{"lower":"demonstrably"},{"lower":"false"},{"lower":"statements"}]}
+{"label":"CREDIBILITY","pattern":[{"lower":"concealed"}]}
+{"label":"CREDIBILITY","pattern":[{"lower":"poor"},{"lower":"faith"}]}
+{"label":"CREDIBILITY","pattern":[{"lower":"misleading"},{"lower":"statements"}]}
+{"label":"CREDIBILITY","pattern":[{"lower":"good"},{"lower":"faith"}]}
+{"label":"CREDIBILITY","pattern":[{"lower":"misrepresent"}]}
+{"label":"CREDIBILITY","pattern":[{"lower":"bad"},{"lower":"faith"},{"lower":"claims"}]}
+{"label":"CREDIBILITY","pattern":"satisfied the evidence proves"}
+{"label":"CREDIBILITY","pattern":"evidence proves"}
+{"label":"CREDIBILITY","pattern":"discrepancies in the evidence"}
+{"label":"CREDIBILITY","pattern":"reasonable grounds for believing"}
+{"label":"CREDIBILITY","pattern":"lack of supporting evidence"}
+{"label":"CREDIBILITY","pattern":"reliable evidence"}
+{"label":"CREDIBILITY","pattern":"undermines assertions"}
+{"label":"CREDIBILITY","pattern":"not supported by any evidence"}
+{"label":"CREDIBILITY","pattern":"trustworthy evidence"}
+{"label":"CREDIBILITY","pattern":[{"lower":"factual"},{"lower":"finding"}]}
+{"label":"CREDIBILITY","pattern":[{"lower":"enough"},{"lower":"evidence"}]}
+{"label":"CREDIBILITY","pattern":[{"lower":"sufficient"},{"lower":"reason"}]}
+{"label":"CREDIBILITY","pattern":[{"lower":"adequate"},{"lower":"evidence"}]}
+{"label":"CREDIBILITY","pattern":[{"lower":"good"},{"lower":"evidence"}]}
+{"label":"CREDIBILITY","pattern":[{"lower":"satisfactory"},{"lower":"evidence"}]}
+{"label":"CREDIBILITY","pattern":[{"lower":"credible"},{"lower":"basis"}]}
+{"label":"CREDIBILITY","pattern":[{"lower":"not a"},{"lower":"credible"},{"lower":"witness"}]}
+{"label":"CREDIBILITY","pattern":[{"lower":"resonable"},{"lower":"doubt"}]}
+{"label":"CREDIBILITY","pattern":[{"lower":"confirmable"},{"lower":"evidence"}]}
+{"label":"CREDIBILITY","pattern":[{"lower":"compelling"},{"lower":"evidence"}]}
+{"label":"CREDIBILITY","pattern":[{"lower":"insufficient"},{"lower":"evidence"}]}
+{"label":"CREDIBILITY","pattern":[{"lower":"rational"},{"lower":"grounds"}]}
+{"label":"CREDIBILITY","pattern":[{"lower":"reasonable"},{"lower":"basis"}]}
+{"label":"CREDIBILITY","pattern":[{"lower":"sufficient"},{"lower":"basis"}]}
+{"label":"CREDIBILITY","pattern":[{"lower":"strong"},{"lower":"grounds"}]}
+{"label":"CREDIBILITY","pattern":[{"lower":"sufficient"},{"lower":"facts"}]}
+{"label":"CREDIBILITY","pattern":[{"lower":"reasonable"},{"lower":"belief"}]}
+{"label":"CREDIBILITY","pattern":[{"lower":"positive"},{"lower":"evidence"}]}
+{"label":"CREDIBILITY","pattern":[{"lower":"reasonable"},{"lower":"evidence"}]}
+{"label":"CREDIBILITY","pattern":[{"lower":"reasonable"},{"lower":"and"},{"lower":"probable"},{"lower":"grounds"}]}
+{"label":"CREDIBILITY","pattern":[{"lower":"sufficient"},{"lower":"evidence"}]}
+{"label":"CREDIBILITY","pattern":[{"lower":"enough"},{"lower":"credible"},{"lower":"evidence"}]}
+{"label":"CREDIBILITY","pattern":[{"lower":"reasonable"},{"lower":"suspicion"}]}
+{"label":"CREDIBILITY","pattern":[{"lower":"lack"},{"lower":"evidence"}]}
+{"label":"CREDIBILITY","pattern":[{"lower":"evidentiary"},{"lower":"basis"}]}
+{"label":"CREDIBILITY","pattern":[{"lower":"substantial"},{"lower":"evidence"}]}
+{"label":"CREDIBILITY","pattern":[{"lower":"reasonable"},{"lower":"cause"}]}
+{"label":"CREDIBILITY","pattern":[{"lower":"strong"},{"lower":"presumption"}]}
+{"label":"CREDIBILITY","pattern":[{"lower":"reasonable"},{"lower":"ground"}]}
+{"label":"CREDIBILITY","pattern":[{"lower":"sufficient"},{"lower":"reasons"}]}
+{"label":"CREDIBILITY","pattern":[{"lower":"good"},{"lower":"faith"},{"lower":"basis"}]}
+{"label":"CREDIBILITY","pattern":[{"lower":"insufficient"},{"lower":"grounds"}]}
+{"label":"CREDIBILITY","pattern":[{"lower":"strong"},{"lower":"evidence"}]}
+{"label":"CREDIBILITY","pattern":[{"lower":"reasonable"},{"lower":"grounds"}]}
+{"label":"CREDIBILITY","pattern":[{"lower":"exceptional"},{"lower":"evidence"}]}
+{"label":"CREDIBILITY","pattern":[{"lower":"sufficient"},{"lower":"cause"}]}
+{"label":"CREDIBILITY","pattern":[{"lower":"absent"},{"lower":"evidence"}]}
+{"label":"CREDIBILITY","pattern":[{"lower":"deliberate"},{"lower":"falsehood"}]}
+{"label":"CREDIBILITY","pattern":[{"lower":"glaring"},{"lower":"inconsistencies"}]}
+{"label":"CREDIBILITY","pattern":[{"lower":"misrepresentations"}]}
+{"label":"CREDIBILITY","pattern":[{"lower":"internal"},{"lower":"inconsistencies"}]}
+{"label":"CREDIBILITY","pattern":[{"lower":"numerous"},{"lower":"logical"},{"lower":"fallacies"}]}
+{"label":"CREDIBILITY","pattern":[{"lower":"inaccuracies"}]}
+{"label":"CREDIBILITY","pattern":[{"lower":"omissions"}]}
+{"label":"CREDIBILITY","pattern":[{"lower":"misrepresentation"}]}
+{"label":"CREDIBILITY","pattern":[{"lower":"discrepancies"}]}
+{"label":"CREDIBILITY","pattern":[{"lower":"numerous"},{"lower":"fallacies"}]}
+{"label":"CREDIBILITY","pattern":[{"lower":"factual"},{"lower":"inconsistencies"}]}
+{"label":"CREDIBILITY","pattern":[{"lower":"significant"},{"lower":"omission"}]}
+{"label":"CREDIBILITY","pattern":[{"lower":"historical"},{"lower":"errors"}]}
+{"label":"CREDIBILITY","pattern":[{"lower":"many"},{"lower":"contradictions"}]}
+{"label":"CREDIBILITY","pattern":[{"lower":"contradiction"}]}
+{"label":"CREDIBILITY","pattern":[{"lower":"factual"},{"lower":"inaccuracies"}]}
+{"label":"CREDIBILITY","pattern":[{"lower":"blatant"},{"lower":"inaccuracies"}]}
+{"label":"CREDIBILITY","pattern":[{"lower":"incompatibility"}]}
+{"label":"CREDIBILITY","pattern":[{"lower":"clear"},{"lower":"contradictions"}]}
+{"label":"CREDIBILITY","pattern":[{"lower":"misstatements"}]}
+{"label":"CREDIBILITY","pattern":[{"lower":"dubious"}]}
+{"label":"CREDIBILITY","pattern":[{"lower":"inaccurate"},{"lower":"details"}]}
+{"label":"CREDIBILITY","pattern":[{"lower":"self"},{"lower":"contradictions"}]}
+{"label":"CREDIBILITY","pattern":[{"lower":"factual"},{"lower":"errors"}]}
+{"label":"CREDIBILITY","pattern":[{"lower":"vagueness"}]}
+{"label":"CREDIBILITY","pattern":[{"lower":"several"},{"lower":"contradictions"}]}
+{"label":"CREDIBILITY","pattern":[{"lower":"various"},{"lower":"inconsistencies"}]}
+{"label":"CREDIBILITY","pattern":[{"lower":"logical"},{"lower":"inconsistencies"}]}
+{"label":"CREDIBILITY","pattern":[{"lower":"multiple"},{"lower":"inconsistencies"}]}
+{"label":"CREDIBILITY","pattern":[{"lower":"historical"},{"lower":"inconsistencies"}]}
+{"label":"CREDIBILITY","pattern":[{"lower":"apparent"},{"lower":"contradictions"}]}
+{"label":"CREDIBILITY","pattern":[{"lower":"obvious"},{"lower":"inconsistencies"}]}
+{"label":"CREDIBILITY","pattern":[{"lower":"apparent"},{"lower":"inconsistencies"}]}
+{"label":"CREDIBILITY","pattern":[{"lower":"credibility"}]}
+{"label":"CREDIBILITY","pattern":[{"lower":"ommissions"}]}
+{"label":"CREDIBILITY","pattern":[{"lower":"outright"},{"lower":"contradiction"}]}
+{"label":"CREDIBILITY","pattern":[{"lower":"inconsistencies"}]}
+{"label":"CREDIBILITY","pattern":[{"lower":"contradictions"}]}
+{"label":"CREDIBILITY","pattern":[{"lower":"inconsistency"}]}
+{"label":"CREDIBILITY","pattern":[{"lower":"obvious"},{"lower":"contradictions"}]}
+{"label":"CREDIBILITY","pattern":[{"lower":"major"},{"lower":"contradictions"}]}
+{"label":"CREDIBILITY","pattern":[{"lower":"massive"},{"lower":"contradictions"}]}
+{"label":"CREDIBILITY","pattern":[{"lower":"actual"},{"lower":"contradictions"}]}
+{"label":"CREDIBILITY","pattern":[{"lower":"blatant"},{"lower":"contradictions"}]}
+{"label":"CREDIBILITY","pattern":[{"lower":"actual"},{"lower":"contradiction"}]}
+{"label":"CREDIBILITY","pattern":[{"lower":"omission"}]}
+{"label":"LAW_REPORT","pattern":"ndp"}
+{"label":"LAW_REPORT","pattern":"national documentation package"}
+
